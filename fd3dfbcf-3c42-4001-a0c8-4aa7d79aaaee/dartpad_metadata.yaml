@@ -1,0 +1,5 @@
+name: Muravka
+mode: dart
+files:
+  - name: main.dart
+  - name: hint.txt
